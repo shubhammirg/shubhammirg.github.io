@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.huck.psu.edu/people/Shubham-Mirg'>Department of Biomedical Enginnering, Pennsylvania State University</a>.
 
 profile:
   align: right
