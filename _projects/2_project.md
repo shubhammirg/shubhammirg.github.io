@@ -2,7 +2,7 @@
 layout: page
 title: Transparent Ultrasound Transducer Cranial Window
 description: A transparent ultrasound transducer cranial window for simultaneous ultrasound neuromodulation and multimodal optical and photoacoustic imaging in awake mice.
-img: assets/img/2.jpg
+img: assets/img/fig3.png
 importance: 2
 category: current
 related_publications: true
