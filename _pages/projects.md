@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects in functional ultrasound imaging, ultrasound neuromodulation, photoacoustic imaging, and transparent ultrasound transducers.
 nav: true
 nav_order: 3
-display_categories: [current, past]
+display_categories: [current]
 horizontal: false
 ---
 
