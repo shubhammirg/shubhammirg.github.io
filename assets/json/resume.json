@@ -141,14 +141,14 @@
   "awards": [
     {
       "title": "Best Poster Award, In Vivo Ultrasound Imaging Gordon Research Conference (GRC)",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "Gordon Research Conferences",
       "url": "",
       "summary": ""
     },
     {
       "title": "Penn State Neuroscience Institute Conference Travel Grant",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "Penn State Neuroscience Institute",
       "url": "",
       "summary": ""
@@ -169,42 +169,42 @@
     },
     {
       "title": "John C. and Joanne H. Villforth Graduate Scholarship in Bioengineering",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "Pennsylvania State University",
       "url": "",
       "summary": ""
     },
     {
       "title": "Trainee Professional Development Award",
-      "date": "2023-01-01",
+      "date": "2023",
       "awarder": "Society for Neuroscience",
       "url": "",
       "summary": ""
     },
     {
       "title": "Best Paper Award Runner-Up, IEEE Sensors Conference",
-      "date": "2022-01-01",
+      "date": "2022",
       "awarder": "IEEE SENSORS",
       "url": "",
       "summary": ""
     },
     {
       "title": "Travel Grant, PHOTOPTICS 2019",
-      "date": "2019-01-01",
+      "date": "2019",
       "awarder": "Department of Electrical Engineering, IIT Kanpur",
       "url": "",
       "summary": ""
     },
     {
       "title": "Travel Grant, International Conference on Photonics, Optics and Laser Technology (PHOTOPTICS)",
-      "date": "2019-01-01",
+      "date": "2019",
       "awarder": "PHOTOPTICS Organizers",
       "url": "",
       "summary": ""
     },
     {
       "title": "Academic Excellence Award",
-      "date": "2016-01-01",
+      "date": "2016",
       "awarder": "Indian Institute of Technology Kanpur",
       "url": "",
       "summary": ""
@@ -215,70 +215,70 @@
     {
       "name": "Simultaneous Functional Ultrasound, Intrinsic Optical Signal and Widefield Calcium Neuroimaging (In Review)",
       "publisher": "bioRxiv",
-      "releaseDate": "2026-06-01",
+      "releaseDate": "2026",
       "url": "",
       "summary": "Mirg, S., Gaddale, P., Kumar, A., Samanta, K., Saini, B., Patil, S.P., Vargas, A.A., Laliwala, A., Exner, A.A., Wang, Y., Sipe, G.O."
     },
     {
       "name": "Integrated ultrasound stimulation and optical imaging of awake mice brain using a transparent ultrasound transducer cranial window",
       "publisher": "npj Acoustics, 2(1), 1",
-      "releaseDate": "2026-01-01",
+      "releaseDate": "2026",
       "url": "",
       "summary": "Mirg, S., Samanta, K., Chen, H., Jiang, J., Turner, K.L., Salehi, F., Ramiah, K.M., Drew, P.J., Kothapalli, S.R."
     },
     {
       "name": "Multiparametric Brain Hemodynamics Imaging Using a Combined Ultrafast Ultrasound and Photoacoustic System",
       "publisher": "Advanced Science, 11(31)",
-      "releaseDate": "2024-01-01",
+      "releaseDate": "2024",
       "url": "https://doi.org/10.1002/advs.202401467",
       "summary": "Chen, H., Mirg, S., Gaddale, P., et al."
     },
     {
       "name": "Nanoparticle-Decorated Biomimetic Extracellular Matrix for Cell Nanoencapsulation and Regulation",
       "publisher": "Angewandte Chemie International Edition",
-      "releaseDate": "2023-01-01",
+      "releaseDate": "2023",
       "url": "",
       "summary": "Lee, K., Davis, B., Wang, X., Mirg, S., et al."
     },
     {
       "name": "Photoacoustic imaging for microcirculation",
       "publisher": "Microcirculation, 29(6-7), e12776",
-      "releaseDate": "2022-01-01",
+      "releaseDate": "2022",
       "url": "",
       "summary": "Mirg, S., Turner, K.L., Chen, H., Drew, P.J., Kothapalli, S.-R."
     },
     {
       "name": "A Novel Matching Layer Design for Improving the Performance of Transparent Ultrasound Transducers",
       "publisher": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 69(9)",
-      "releaseDate": "2022-01-01",
+      "releaseDate": "2022",
       "url": "",
       "summary": "Osman, M.S., Chen, H., Creamer, K., Minotto, J., Liu, J., Mirg, S., et al."
     },
     {
       "name": "A Transparent Ultrasound Array for Real-Time Optical, Ultrasound, and Photoacoustic Imaging",
       "publisher": "BME Frontiers",
-      "releaseDate": "2022-01-01",
+      "releaseDate": "2022",
       "url": "",
       "summary": "Chen, H., Agrawal, S., Osman, M., Minotto, J., Mirg, S., et al."
     },
     {
       "name": "Awake mouse brain photoacoustic and optical imaging through a transparent ultrasound cranial window (Co-first author)",
       "publisher": "Optics Letters, 47(5)",
-      "releaseDate": "2022-01-01",
+      "releaseDate": "2022",
       "url": "",
       "summary": "Mirg, S.*, Chen, H.*, Turner, K.L., Gheres, K.W., et al. (*Co-first authors)"
     },
     {
       "name": "A High Sensitivity Transparent Ultrasound Transducer Based on PMN-PT for Ultrasound and Photoacoustic Imaging (Co-first author)",
       "publisher": "IEEE Sensors Letters, 5(11)",
-      "releaseDate": "2021-01-01",
+      "releaseDate": "2021",
       "url": "",
       "summary": "Chen, H.*, Mirg, S.*, Osman, M., Agrawal, S., et al. (*Co-first authors)"
     },
     {
       "name": "Experimental demonstration of 12.5 GHz wideband chaos in symmetric dual-port EDFRL",
       "publisher": "Applied Optics, 56(28)",
-      "releaseDate": "2017-01-01",
+      "releaseDate": "2017",
       "url": "",
       "summary": "Mirg, S., Jain, A., Pandey, A., Krishnamurthy, P.K., Landais, P."
     }
@@ -353,8 +353,8 @@
         "Cross-validated fUS against intrinsic hemoglobin signals and derived transfer functions to characterize sensitivity and linearity",
         "Demonstrated multiscale imaging in a glioblastoma (GBM) mouse model"
       ],
-      "startDate": "2025-01-01",
-      "endDate": "2026-01-01",
+      "startDate": "2025",
+      "endDate": "2026",
       "url": ""
     },
     {
@@ -365,8 +365,8 @@
         "Built optical imaging setups for intrinsic optical signal and widefield calcium imaging",
         "Assessed hemodynamic parameters and demonstrated neurovascular-coupling-driven responses to ultrasound stimulation"
       ],
-      "startDate": "2023-01-01",
-      "endDate": "2025-01-01",
+      "startDate": "2023",
+      "endDate": "2025",
       "url": ""
     },
     {
@@ -376,8 +376,8 @@
         "Contributed ultrasound localization imaging methods, code development, and data analysis",
         "Worked on ULM data analysis applied to a glioblastoma (GBM) mouse model"
       ],
-      "startDate": "2022-01-01",
-      "endDate": "2024-01-01",
+      "startDate": "2022",
+      "endDate": "2024",
       "url": ""
     },
     {
@@ -387,8 +387,8 @@
         "Characterized performance and noise via pulse-echo, hydrophone pressure, and photoacoustic measurements (PiezoCAD modeling, MATLAB analysis)",
         "Showed PMN-PT is a viable alternative to lithium niobate; designed an electrical impedance matching circuit to improve performance"
       ],
-      "startDate": "2021-01-01",
-      "endDate": "2025-01-01",
+      "startDate": "2021",
+      "endDate": "2025",
       "url": ""
     },
     {
@@ -398,32 +398,32 @@
         "Homodyne phase-generated carrier implementation and acoustic signal recovery",
         "Five-sensor interferometer array with time-division multiplexing"
       ],
-      "startDate": "2016-01-01",
-      "endDate": "2020-01-01",
+      "startDate": "2016",
+      "endDate": "2020",
       "url": ""
     },
     {
       "name": "Chaos in Erbium-Doped Fiber Ring Lasers",
       "summary": "Wide-bandwidth chaos demonstration and analysis via Rosenstein's algorithm.",
       "highlights": [],
-      "startDate": "2016-01-01",
-      "endDate": "2017-12-31",
+      "startDate": "2016",
+      "endDate": "2017",
       "url": ""
     },
     {
       "name": "Digital Communication Using Chaotic Signals",
       "summary": "MATLAB implementation and evaluation of chaotic modulation/demodulation schemes and jamming performance.",
       "highlights": [],
-      "startDate": "2014-01-01",
-      "endDate": "2015-12-31",
+      "startDate": "2014",
+      "endDate": "2015",
       "url": ""
     },
     {
       "name": "NSIT Solar Car Concept",
       "summary": "Solar electric vehicle design and integration of battery pack, solar panels, and DC motor.",
       "highlights": [],
-      "startDate": "2012-01-01",
-      "endDate": "2015-12-31",
+      "startDate": "2012",
+      "endDate": "2015",
       "url": ""
     }
   ]
