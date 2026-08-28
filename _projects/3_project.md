@@ -2,7 +2,7 @@
 layout: page
 title: Development of Transparent Ultrasound Transducers
 description: Fabrication and characterization of PMN-PT and lithium niobate transparent ultrasound transducers for multimodal optical and photoacoustic imaging.
-img: assets/img/4.jpg
+img: assets/img/nihms-1755419-f0001.jpg
 importance: 4
 category: current
 related_publications: true
