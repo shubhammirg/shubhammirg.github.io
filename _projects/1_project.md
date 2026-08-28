@@ -2,7 +2,7 @@
 layout: page
 title: Trimodal fUS + Optical + Calcium Imaging
 description: Simultaneous functional ultrasound, intrinsic optical signal, and widefield calcium neuroimaging in the awake and anaesthetized rodent brain.
-img: assets/img/1.jpg
+img: assets/img/E_fig1.png
 importance: 1
 category: current
 related_publications: true
