@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Shubham_Mirg_CV.pdf
+description: PhD in Biomedical Engineering (Penn State). Research in functional ultrasound imaging, ultrasound neuromodulation, photoacoustic imaging, and multimodal neuroimaging. Click the PDF icon for a downloadable version.
 toc:
   sidebar: left
 ---
